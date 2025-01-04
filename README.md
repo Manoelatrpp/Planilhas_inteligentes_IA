@@ -1,9 +1,4 @@
-# SmartFinance-AI
-
-# Projeto: Como Organizar Sua Vida Financeira com Planilhas Inteligentes e Inteligência Artificial  
-
-## Descrição do Projeto  
-Este projeto foi desenvolvido durante o curso "Como organizar sua vida Financeira com Planilhas Inteligentes e IA" na plataforma [DIO](https://web.dio.me/track/coding-the-future-ia-generativa-microsoft-copilot) Ele tem como objetivo ajudar os usuários a gerenciar suas finanças pessoais utilizando planilhas inteligentes no Excel e ferramentas avançadas, como o [ChatGPT](https://chatgpt.com/), para análise de dados e geração de insights financeiros.
+# Projeto: Como Organizar Sua Vida Financeira com Planilhas Inteligentes e IA  
 
 ### Ferramentas Utilizadas  
 - **Excel**: Para criar planilhas detalhadas com dados financeiros.  
@@ -17,24 +12,7 @@ Este projeto foi desenvolvido durante o curso "Como organizar sua vida Financeir
 3. **Dashboards Interativos**: Gráficos dinâmicos que facilitam o monitoramento das finanças.  
 4. **Consultoria com ChatGPT**: Use a IA para obter análises personalizadas e dicas de melhoria.  
 
-### Como Usar  
-1. Faça o download da planilha e insira suas informações financeiras. [Download aqui](https://github.com/Vifernandestech/SmartFinance-AI/blob/main/Planilha_Inteligente_Gest%C3%A3o_Financeira.xlsx)  
-2. Utilize as tabelas dinâmicas para visualizar resumos detalhados.  
-3. Analise seus gastos e receitas por meio dos gráficos no dashboard interativo.
-4. Após finalizada a planilha, copie apenas a aba dos "Dados" e gere um segundo arquivo Excel com os dados desta aba copiada e salve-o para inserí-lo em usa ferramenta de Inteligência Artificial para analise. [Download arquivo exemplo](https://github.com/Vifernandestech/SmartFinance-AI/blob/main/Gest%C3%A3o_Financeira_paraAI.xlsx)
-5. Aproveite o poder do ChatGPT para interpretar dados e gerar insights valiosos sobre sua saúde financeira.  
-
-### Considerações Finais  
-Este projeto combina praticidade e inovação para facilitar o controle financeiro pessoal. Com o uso de tabelas dinâmicas, dashboards interativos e inteligência artificial, torna-se possível organizar as finanças de forma eficiente e estratégica. Transforme o ChatGPT em seu consultor financeiro pessoal!  
+[Download aqui](https://github.com/Vifernandestech/SmartFinance-AI/blob/main/Planilha_Inteligente_Gest%C3%A3o_Financeira.xlsx)  
 
 **Nota Importante:**  
 Os dados utilizados neste projeto são fictícios e têm caráter exclusivamente educacional e demonstrativo.
-
-## Sobre o Autor  
-Vitor Fernandes é estudante de Tecnologia em Segurança Cibernética pelo Senac São Paulo e entusiasta de Inteligência Artificial. Com experiência em vendas e atendimento ao cliente tanto no e-commerce quanto no presencial, ele desenvolve projetos que combinam IA e segurança cibernética. Seu foco é transformar negócios e construir confiança por meio de soluções inovadoras e tecnológicas, como a criação de ferramentas para facilitar o controle financeiro e melhorar a gestão de recursos.
-
-### Links para contato e outros projetos:  
-- [GitHub](https://github.com/Vifernandestech)  
-- [LinkedIn](http://www.linkedin.com/in/vifernandescybersec)
-
-

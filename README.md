@@ -3,7 +3,7 @@
 [Planilha Inteligente](https://github.com/Manoelatrpp/Planilhas_inteligentes_IA/blob/main/planilha%20inteligente.xlsx)  
 
 ## 📒 Descrição
-O projeto tem o objetivo de gerar uma planilha fincnceira dinâmica no Excel e utilizar o ChatGPT para buscar insights
+O projeto tem o objetivo de gerar uma planilha financeira dinâmica no Excel e utilizar o ChatGPT para buscar insights
 sobre a análise dos dados da planilha em relação a informações financeiras pessoais.
 
 ### 💻 Ferramentas Utilizadas  
